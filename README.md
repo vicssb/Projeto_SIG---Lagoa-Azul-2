@@ -54,7 +54,7 @@ empregadas em Sistemas de Informação Geográficas (SIGs).
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:vicssb@gmail.com" alt="Gmail" target = "_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target = "_blank">
