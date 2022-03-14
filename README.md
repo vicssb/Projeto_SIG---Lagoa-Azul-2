@@ -44,8 +44,8 @@ empregadas em Sistemas de Informação Geográficas (SIGs).
   💼 <b>SATÉLITE ORBITAL:</b> 
 </p>
     <ul>
-        <li>    <strong>ASTER/TERRA</strong> </li>
-        <li>    <strong>Landsat 5</strong></li>
+        <li><strong>ASTER/TERRA</strong> </li>
+        <li><strong>Landsat 5</strong></li>
     </ul>
 
 
