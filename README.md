@@ -1,12 +1,15 @@
 <img src="04062016.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<p>
-  <H1><b> ANALISE TEMPORAL DA OCUPAÇÃO
-TERRITORIAL DO NÚCLEO LAGOA AZUL 2 –
-JACAREÍ, SP </b> </H1>
-  <H2><b> Victor Sérgio Silva Barros </b> </H2>
-  <H2><b> Eduardo de Sousa Silveira</b> </H2>
-  <H2><b> Paula Victoria</b> </H2>
+<p align="center">
+  <b> ANALISE TEMPORAL DA OCUPAÇÃO
+TERRITORIAL DO NÚCLEO LAGOA AZUL 2 - 
+JACAREÍ, SP </b> 
 </p> 
+
+<ul>
+    <li><b> Victor Sérgio Silva Barros </b></li>
+    <li><b> Eduardo de Sousa Silveira</b></li>
+    <li><b> Paula Victoria</b></li>
+</ul>
 
 <p align="left">  
   Na cidade de Jacareí/SP uma área de propriedade particular localizada nas coordenadas
@@ -22,7 +25,7 @@ de como isso afetou o solo de formal ambiental e as famílias que ali residem at
 </p>
 
 <p align="left">
-  🦄 Objetivos geral<br>
+  🦄 <b>Objetivos geral</b><br>
 • Análise temporal de uso e ocupação do solo do núcleo informal Lagoa Azul 2 no
 município de Jacareí/SP, no período entre os anos de 2008, 2016 e 2021. A partir
 de imagens de satélite do sensor Aster e Landsat com suporte de técnicas
@@ -30,19 +33,21 @@ empregadas em Sistemas de Informação Geográficas (SIGs).
 </p>
 
 <p align="left">
-  💼 <b>Ferramentas:</b> <br>
+  💼 <b>Ferramentas:</b>
+</p>
 <ul>
-    <li><strong>Software SIG de licença free QGIS versão 3.4 (madeira) e Spring 5.2</li>
+    <li><strong>Software SIG de licença free QGIS versão 3.4 (madeira) e Spring 5.2</strong></li>
     <li><strong>Excel (gráficos)</strong></li>
 </ul>
-</p>
+
 <p align="left">
-  💼 SATÉLITE ORBITAL: <br>
+  💼 <b>SATÉLITE ORBITAL:</b> 
+</p>
     <ul>
         <li>    <strong>ASTER/TERRA</strong> </li>
         <li>    <strong>Landsat 5</strong></li>
     </ul>
-</p>
+
 
 <p align="left">
   💌 Para maiores informações entre em contato: ⤵️
