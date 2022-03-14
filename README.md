@@ -30,9 +30,18 @@ empregadas em Sistemas de Informação Geográficas (SIGs).
 </p>
 
 <p align="left">
-  💼 Ferramentas: <br>
-    <strong>• Software SIG de licença free QGIS versão 3.4 (madeira) e Spring 5.2<br>
-        • Excel (gráficos)</strong>
+  💼 <b>Ferramentas:</b> <br>
+<ul>
+    <li><strong>Software SIG de licença free QGIS versão 3.4 (madeira) e Spring 5.2</li>
+    <li><strong>Excel (gráficos)</strong></li>
+</ul>
+</p>
+<p align="left">
+  💼 SATÉLITE ORBITAL: <br>
+    <ul>
+        <li>    <strong>ASTER/TERRA</strong> </li>
+        <li>    <strong>Landsat 5</strong></li>
+    </ul>
 </p>
 
 <p align="left">
