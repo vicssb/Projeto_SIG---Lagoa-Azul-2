@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Lagoa Azul 2.kml</name>
+	<Schema name="Lagoa Azul 2" id="S_Lagoa_Azul_2_SSSSSSSSSSSISISSSSSSSDSIISSISISSIIISSISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSII">
+		<SimpleField type="string" name="NUCLEO"><displayName>&lt;b&gt;NUCLEO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="id_2"><displayName>&lt;b&gt;id_2&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="anoImplant"><displayName>&lt;b&gt;anoImplant&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="area"><displayName>&lt;b&gt;area&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="descricao"><displayName>&lt;b&gt;descricao&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="lotesFinal"><displayName>&lt;b&gt;lotesFinal&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="status"><displayName>&lt;b&gt;status&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Perimetro"><displayName>&lt;b&gt;Perimetro&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Zona"><displayName>&lt;b&gt;Zona&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Classific"><displayName>&lt;b&gt;Classific&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Interesse"><displayName>&lt;b&gt;Interesse&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="ZEIStipo"><displayName>&lt;b&gt;ZEIStipo&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="TitulosEmi"><displayName>&lt;b&gt;TitulosEmi&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Observacao"><displayName>&lt;b&gt;Observacao&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="ID_SOCIAL"><displayName>&lt;b&gt;ID_SOCIAL&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="STATUS_20"><displayName>&lt;b&gt;STATUS_20&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="TAB_Energi"><displayName>&lt;b&gt;TAB_Energi&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Monitado"><displayName>&lt;b&gt;Monitado&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="CLegal2009"><displayName>&lt;b&gt;CLegal2009&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="CLegal2020"><displayName>&lt;b&gt;CLegal2020&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="PDOT2003"><displayName>&lt;b&gt;PDOT2003&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="PMHIS2010"><displayName>&lt;b&gt;PMHIS2010&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="AREA_M22"><displayName>&lt;b&gt;AREA_M22&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="B_SICAR"><displayName>&lt;b&gt;B_SICAR&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="B_Matricul"><displayName>&lt;b&gt;B_Matricul&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="B_ID_ESPEC"><displayName>&lt;b&gt;B_ID_ESPEC&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="layer"><displayName>&lt;b&gt;layer&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="path"><displayName>&lt;b&gt;path&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="ID_OUTROS"><displayName>&lt;b&gt;ID_OUTROS&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="DATA"><displayName>&lt;b&gt;DATA&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="edf_2016"><displayName>&lt;b&gt;edf_2016&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="GRAU_INUND"><displayName>&lt;b&gt;GRAU_INUND&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="GRAU_DESLI"><displayName>&lt;b&gt;GRAU_DESLI&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="DOM_INUNDA"><displayName>&lt;b&gt;DOM_INUNDA&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="DOM_DESLIZ"><displayName>&lt;b&gt;DOM_DESLIZ&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="verif"><displayName>&lt;b&gt;verif&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="_areaDesli"><displayName>&lt;b&gt;%areaDesli&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="_areaInund"><displayName>&lt;b&gt;%areaInund&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="num"><displayName>&lt;b&gt;num&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="ID"><displayName>&lt;b&gt;ID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="nº_geral"><displayName>&lt;b&gt;nº geral&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="nº"><displayName>&lt;b&gt;nº&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="nº2"><displayName>&lt;b&gt;nº2&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="nº3"><displayName>&lt;b&gt;nº3&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="NÚCLEO_E"><displayName>&lt;b&gt;NÚCLEO E&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="NÚCLEOS"><displayName>&lt;b&gt;NÚCLEOS&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="NÚCLEOS_S"><displayName>&lt;b&gt;NÚCLEOS_S&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="INTERESSAD"><displayName>&lt;b&gt;INTERESSAD&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="OUTROS_NOM"><displayName>&lt;b&gt;OUTROS_NOM&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="OUTROS_N_1"><displayName>&lt;b&gt;OUTROS_N_1&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="TIPO_DE_N_"><displayName>&lt;b&gt;TIPO DE N�&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="INTERESSE_"><displayName>&lt;b&gt;INTERESSE.&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="STATUS_RES"><displayName>&lt;b&gt;STATUS RES&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="ANO_IMPLAN"><displayName>&lt;b&gt;ANO IMPLAN&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="ANO_IMPL_1"><displayName>&lt;b&gt;ANO IMPL_1&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="INTERESS_1"><displayName>&lt;b&gt;INTERESS_1&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="ANTERIOR_A"><displayName>&lt;b&gt;ANTERIOR A&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="STATUS_JAN"><displayName>&lt;b&gt;STATUS JAN&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="PROCESSOS"><displayName>&lt;b&gt;PROCESSOS&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="PROCESSO_1"><displayName>&lt;b&gt;PROCESSO_1&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="AÇÃO_NEC"><displayName>&lt;b&gt;AÇÃO NEC&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Constava_n"><displayName>&lt;b&gt;Constava n&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Conhecidos"><displayName>&lt;b&gt;Conhecidos&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Notificaç"><displayName>&lt;b&gt;Notificaç&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Em_organiz"><displayName>&lt;b&gt;Em organiz&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Análise_d"><displayName>&lt;b&gt;Análise d&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Projeto_ur"><displayName>&lt;b&gt;Projeto ur&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Emissão_d"><displayName>&lt;b&gt;Emissão d&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Projetos_c"><displayName>&lt;b&gt;Projetos c&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Estudo_amb"><displayName>&lt;b&gt;Estudo amb&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Demarcaç_"><displayName>&lt;b&gt;Demarcaç�&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Aprovaçã"><displayName>&lt;b&gt;Aprovaçã&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Aprovaç_1"><displayName>&lt;b&gt;Aprovaç_1&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Emissão_1"><displayName>&lt;b&gt;Emissão_1&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Área_est_"><displayName>&lt;b&gt;Área est�&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Qual_Mapa_"><displayName>&lt;b&gt;Qual Mapa?&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Qual_Mapa"><displayName>&lt;b&gt;Qual Mapa&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="num2"><displayName>&lt;b&gt;num2&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="num3"><displayName>&lt;b&gt;num3&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>NUCLEO</b></td><td>$[Lagoa Azul 2/NUCLEO]</td></tr>
+  <tr><td><b>nome</b></td><td>$[Lagoa Azul 2/nome]</td></tr>
+  <tr><td><b>id_2</b></td><td>$[Lagoa Azul 2/id_2]</td></tr>
+  <tr><td><b>anoImplant</b></td><td>$[Lagoa Azul 2/anoImplant]</td></tr>
+  <tr><td><b>area</b></td><td>$[Lagoa Azul 2/area]</td></tr>
+  <tr><td><b>descricao</b></td><td>$[Lagoa Azul 2/descricao]</td></tr>
+  <tr><td><b>lotesFinal</b></td><td>$[Lagoa Azul 2/lotesFinal]</td></tr>
+  <tr><td><b>status</b></td><td>$[Lagoa Azul 2/status]</td></tr>
+  <tr><td><b>Perimetro</b></td><td>$[Lagoa Azul 2/Perimetro]</td></tr>
+  <tr><td><b>Zona</b></td><td>$[Lagoa Azul 2/Zona]</td></tr>
+  <tr><td><b>Classific</b></td><td>$[Lagoa Azul 2/Classific]</td></tr>
+  <tr><td><b>Interesse</b></td><td>$[Lagoa Azul 2/Interesse]</td></tr>
+  <tr><td><b>ZEIStipo</b></td><td>$[Lagoa Azul 2/ZEIStipo]</td></tr>
+  <tr><td><b>TitulosEmi</b></td><td>$[Lagoa Azul 2/TitulosEmi]</td></tr>
+  <tr><td><b>Observacao</b></td><td>$[Lagoa Azul 2/Observacao]</td></tr>
+  <tr><td><b>ID_SOCIAL</b></td><td>$[Lagoa Azul 2/ID_SOCIAL]</td></tr>
+  <tr><td><b>STATUS_20</b></td><td>$[Lagoa Azul 2/STATUS_20]</td></tr>
+  <tr><td><b>TAB_Energi</b></td><td>$[Lagoa Azul 2/TAB_Energi]</td></tr>
+  <tr><td><b>Monitado</b></td><td>$[Lagoa Azul 2/Monitado]</td></tr>
+  <tr><td><b>CLegal2009</b></td><td>$[Lagoa Azul 2/CLegal2009]</td></tr>
+  <tr><td><b>CLegal2020</b></td><td>$[Lagoa Azul 2/CLegal2020]</td></tr>
+  <tr><td><b>PDOT2003</b></td><td>$[Lagoa Azul 2/PDOT2003]</td></tr>
+  <tr><td><b>PMHIS2010</b></td><td>$[Lagoa Azul 2/PMHIS2010]</td></tr>
+  <tr><td><b>AREA_M22</b></td><td>$[Lagoa Azul 2/AREA_M22]</td></tr>
+  <tr><td><b>B_SICAR</b></td><td>$[Lagoa Azul 2/B_SICAR]</td></tr>
+  <tr><td><b>B_Matricul</b></td><td>$[Lagoa Azul 2/B_Matricul]</td></tr>
+  <tr><td><b>B_ID_ESPEC</b></td><td>$[Lagoa Azul 2/B_ID_ESPEC]</td></tr>
+  <tr><td><b>layer</b></td><td>$[Lagoa Azul 2/layer]</td></tr>
+  <tr><td><b>path</b></td><td>$[Lagoa Azul 2/path]</td></tr>
+  <tr><td><b>ID_OUTROS</b></td><td>$[Lagoa Azul 2/ID_OUTROS]</td></tr>
+  <tr><td><b>DATA</b></td><td>$[Lagoa Azul 2/DATA]</td></tr>
+  <tr><td><b>edf_2016</b></td><td>$[Lagoa Azul 2/edf_2016]</td></tr>
+  <tr><td><b>GRAU_INUND</b></td><td>$[Lagoa Azul 2/GRAU_INUND]</td></tr>
+  <tr><td><b>GRAU_DESLI</b></td><td>$[Lagoa Azul 2/GRAU_DESLI]</td></tr>
+  <tr><td><b>DOM_INUNDA</b></td><td>$[Lagoa Azul 2/DOM_INUNDA]</td></tr>
+  <tr><td><b>DOM_DESLIZ</b></td><td>$[Lagoa Azul 2/DOM_DESLIZ]</td></tr>
+  <tr><td><b>verif</b></td><td>$[Lagoa Azul 2/verif]</td></tr>
+  <tr><td><b>%areaDesli</b></td><td>$[Lagoa Azul 2/_areaDesli]</td></tr>
+  <tr><td><b>%areaInund</b></td><td>$[Lagoa Azul 2/_areaInund]</td></tr>
+  <tr><td><b>num</b></td><td>$[Lagoa Azul 2/num]</td></tr>
+  <tr><td><b>ID</b></td><td>$[Lagoa Azul 2/ID]</td></tr>
+  <tr><td><b>nº geral</b></td><td>$[Lagoa Azul 2/nº_geral]</td></tr>
+  <tr><td><b>nº</b></td><td>$[Lagoa Azul 2/nº]</td></tr>
+  <tr><td><b>nº2</b></td><td>$[Lagoa Azul 2/nº2]</td></tr>
+  <tr><td><b>nº3</b></td><td>$[Lagoa Azul 2/nº3]</td></tr>
+  <tr><td><b>NÚCLEO E</b></td><td>$[Lagoa Azul 2/NÚCLEO_E]</td></tr>
+  <tr><td><b>NÚCLEOS</b></td><td>$[Lagoa Azul 2/NÚCLEOS]</td></tr>
+  <tr><td><b>NÚCLEOS_S</b></td><td>$[Lagoa Azul 2/NÚCLEOS_S]</td></tr>
+  <tr><td><b>INTERESSAD</b></td><td>$[Lagoa Azul 2/INTERESSAD]</td></tr>
+  <tr><td><b>OUTROS_NOM</b></td><td>$[Lagoa Azul 2/OUTROS_NOM]</td></tr>
+  <tr><td><b>OUTROS_N_1</b></td><td>$[Lagoa Azul 2/OUTROS_N_1]</td></tr>
+  <tr><td><b>TIPO DE N�</b></td><td>$[Lagoa Azul 2/TIPO_DE_N_]</td></tr>
+  <tr><td><b>INTERESSE.</b></td><td>$[Lagoa Azul 2/INTERESSE_]</td></tr>
+  <tr><td><b>STATUS RES</b></td><td>$[Lagoa Azul 2/STATUS_RES]</td></tr>
+  <tr><td><b>ANO IMPLAN</b></td><td>$[Lagoa Azul 2/ANO_IMPLAN]</td></tr>
+  <tr><td><b>ANO IMPL_1</b></td><td>$[Lagoa Azul 2/ANO_IMPL_1]</td></tr>
+  <tr><td><b>INTERESS_1</b></td><td>$[Lagoa Azul 2/INTERESS_1]</td></tr>
+  <tr><td><b>ANTERIOR A</b></td><td>$[Lagoa Azul 2/ANTERIOR_A]</td></tr>
+  <tr><td><b>STATUS JAN</b></td><td>$[Lagoa Azul 2/STATUS_JAN]</td></tr>
+  <tr><td><b>PROCESSOS</b></td><td>$[Lagoa Azul 2/PROCESSOS]</td></tr>
+  <tr><td><b>PROCESSO_1</b></td><td>$[Lagoa Azul 2/PROCESSO_1]</td></tr>
+  <tr><td><b>AÇÃO NEC</b></td><td>$[Lagoa Azul 2/AÇÃO_NEC]</td></tr>
+  <tr><td><b>Constava n</b></td><td>$[Lagoa Azul 2/Constava_n]</td></tr>
+  <tr><td><b>Conhecidos</b></td><td>$[Lagoa Azul 2/Conhecidos]</td></tr>
+  <tr><td><b>Notificaç</b></td><td>$[Lagoa Azul 2/Notificaç]</td></tr>
+  <tr><td><b>Em organiz</b></td><td>$[Lagoa Azul 2/Em_organiz]</td></tr>
+  <tr><td><b>Análise d</b></td><td>$[Lagoa Azul 2/Análise_d]</td></tr>
+  <tr><td><b>Projeto ur</b></td><td>$[Lagoa Azul 2/Projeto_ur]</td></tr>
+  <tr><td><b>Emissão d</b></td><td>$[Lagoa Azul 2/Emissão_d]</td></tr>
+  <tr><td><b>Projetos c</b></td><td>$[Lagoa Azul 2/Projetos_c]</td></tr>
+  <tr><td><b>Estudo amb</b></td><td>$[Lagoa Azul 2/Estudo_amb]</td></tr>
+  <tr><td><b>Demarcaç�</b></td><td>$[Lagoa Azul 2/Demarcaç_]</td></tr>
+  <tr><td><b>Aprovaçã</b></td><td>$[Lagoa Azul 2/Aprovaçã]</td></tr>
+  <tr><td><b>Aprovaç_1</b></td><td>$[Lagoa Azul 2/Aprovaç_1]</td></tr>
+  <tr><td><b>Emissão_1</b></td><td>$[Lagoa Azul 2/Emissão_1]</td></tr>
+  <tr><td><b>Área est�</b></td><td>$[Lagoa Azul 2/Área_est_]</td></tr>
+  <tr><td><b>Qual Mapa?</b></td><td>$[Lagoa Azul 2/Qual_Mapa_]</td></tr>
+  <tr><td><b>Qual Mapa</b></td><td>$[Lagoa Azul 2/Qual_Mapa]</td></tr>
+  <tr><td><b>num2</b></td><td>$[Lagoa Azul 2/num2]</td></tr>
+  <tr><td><b>num3</b></td><td>$[Lagoa Azul 2/num3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Folder id="layer 0">
+		<name>Lagoa Azul 2</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<visibility>0</visibility>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffe7ebef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>ffe7ebef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffe7ebef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Lagoa_Azul_2_SSSSSSSSSSSISISSSSSSSDSIISSISISSIIISSISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSII">
+					<SimpleData name="NUCLEO">Lagoa Azul 2</SimpleData>
+					<SimpleData name="nome">Lagoa Azul 2</SimpleData>
+					<SimpleData name="id_2">0</SimpleData>
+					<SimpleData name="anoImplant">2016</SimpleData>
+					<SimpleData name="area">Área Particular invadida</SimpleData>
+					<SimpleData name="descricao">Invasão em área particular ao lado do Lagoa Azul.</SimpleData>
+					<SimpleData name="lotesFinal">400</SimpleData>
+					<SimpleData name="status">Núcleo informal não regularizado</SimpleData>
+					<SimpleData name="Perimetro"></SimpleData>
+					<SimpleData name="Zona">MM</SimpleData>
+					<SimpleData name="Classific">Ocupação</SimpleData>
+					<SimpleData name="Interesse">Social</SimpleData>
+					<SimpleData name="ZEIStipo">Fora de ZEIS</SimpleData>
+					<SimpleData name="TitulosEmi">0</SimpleData>
+					<SimpleData name="Observacao">Número de famílias aproximado com base nos dados do caderno do PDOT 2003.</SimpleData>
+					<SimpleData name="ID_SOCIAL">113</SimpleData>
+					<SimpleData name="STATUS_20">Núcleo informal não regularizado</SimpleData>
+					<SimpleData name="TAB_Energi"></SimpleData>
+					<SimpleData name="Monitado">Outro</SimpleData>
+					<SimpleData name="CLegal2009">não</SimpleData>
+					<SimpleData name="CLegal2020">não</SimpleData>
+					<SimpleData name="PDOT2003">não</SimpleData>
+					<SimpleData name="PMHIS2010">não</SimpleData>
+					<SimpleData name="AREA_M22">60828.8</SimpleData>
+					<SimpleData name="B_SICAR"></SimpleData>
+					<SimpleData name="B_Matricul">0</SimpleData>
+					<SimpleData name="B_ID_ESPEC">0</SimpleData>
+					<SimpleData name="layer">PRO-LAR</SimpleData>
+					<SimpleData name="path">C:\Users\MALI\Documents\PROFISSIONAL\PREF_JACAREI\MAPAS\DADOS_ESPACIAIS\SHP\Nucleos_informais_Pro-Lar_20200702.shp</SimpleData>
+					<SimpleData name="ID_OUTROS">4</SimpleData>
+					<SimpleData name="DATA">2020/07/30</SimpleData>
+					<SimpleData name="edf_2016">82</SimpleData>
+					<SimpleData name="GRAU_INUND"></SimpleData>
+					<SimpleData name="GRAU_DESLI"></SimpleData>
+					<SimpleData name="DOM_INUNDA">0</SimpleData>
+					<SimpleData name="DOM_DESLIZ">0</SimpleData>
+					<SimpleData name="verif">318</SimpleData>
+					<SimpleData name="_areaDesli"></SimpleData>
+					<SimpleData name="_areaInund"></SimpleData>
+					<SimpleData name="num">0</SimpleData>
+					<SimpleData name="ID">050</SimpleData>
+					<SimpleData name="nº_geral">50</SimpleData>
+					<SimpleData name="nº"></SimpleData>
+					<SimpleData name="nº2"></SimpleData>
+					<SimpleData name="nº3"></SimpleData>
+					<SimpleData name="NÚCLEO_E">Lagoa Azul 2 - - -</SimpleData>
+					<SimpleData name="NÚCLEOS">Lagoa Azul 2</SimpleData>
+					<SimpleData name="NÚCLEOS_S">Lagoa Azul 2</SimpleData>
+					<SimpleData name="INTERESSAD"></SimpleData>
+					<SimpleData name="OUTROS_NOM"></SimpleData>
+					<SimpleData name="OUTROS_N_1"></SimpleData>
+					<SimpleData name="TIPO_DE_N_">Ocupação</SimpleData>
+					<SimpleData name="INTERESSE_">Social</SimpleData>
+					<SimpleData name="STATUS_RES">Núcleo informal não regularizado</SimpleData>
+					<SimpleData name="ANO_IMPLAN">2016</SimpleData>
+					<SimpleData name="ANO_IMPL_1">2016</SimpleData>
+					<SimpleData name="INTERESS_1">Social</SimpleData>
+					<SimpleData name="ANTERIOR_A">Sim</SimpleData>
+					<SimpleData name="STATUS_JAN"></SimpleData>
+					<SimpleData name="PROCESSOS"></SimpleData>
+					<SimpleData name="PROCESSO_1"></SimpleData>
+					<SimpleData name="AÇÃO_NEC"></SimpleData>
+					<SimpleData name="Constava_n"></SimpleData>
+					<SimpleData name="Conhecidos"></SimpleData>
+					<SimpleData name="Notificaç"></SimpleData>
+					<SimpleData name="Em_organiz"></SimpleData>
+					<SimpleData name="Análise_d"></SimpleData>
+					<SimpleData name="Projeto_ur"></SimpleData>
+					<SimpleData name="Emissão_d"></SimpleData>
+					<SimpleData name="Projetos_c"></SimpleData>
+					<SimpleData name="Estudo_amb"></SimpleData>
+					<SimpleData name="Demarcaç_"></SimpleData>
+					<SimpleData name="Aprovaçã"></SimpleData>
+					<SimpleData name="Aprovaç_1"></SimpleData>
+					<SimpleData name="Emissão_1"></SimpleData>
+					<SimpleData name="Área_est_"></SimpleData>
+					<SimpleData name="Qual_Mapa_">Outros núcleos urbanos informais existentes em 2020 com responsabilidade</SimpleData>
+					<SimpleData name="Qual_Mapa">Núcleos Urbanos Informais Existentes em Jacareí Monitorados Pela Fundação Pró-Lar, Conforme o Status</SimpleData>
+					<SimpleData name="num2">0</SimpleData>
+					<SimpleData name="num3">0</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-45.97196751470727,-23.25468476413388,0 -45.9717200373371,-23.25446666410738,0 -45.9717767518871,-23.2543754311628,0 -45.97244384217215,-23.25367530355361,0 -45.97313471791998,-23.25295408062495,0 -45.97319378944581,-23.25286656503116,0 -45.97334986774678,-23.25266392153897,0 -45.97373588844832,-23.25209207070103,0 -45.97382740140858,-23.25217753651874,0 -45.9738521728375,-23.25223064157911,0 -45.97388593045252,-23.25230007819151,0 -45.97381398137149,-23.25246644552907,0 -45.97372193222942,-23.25261245335708,0 -45.97372155651763,-23.25270238079673,0 -45.97365440150864,-23.25277674482159,0 -45.97396638959271,-23.25300013539351,0 -45.97374196734996,-23.25324894957052,0 -45.9738000549542,-23.25329613784425,0 -45.9737872152808,-23.25335971815742,0 -45.97389551667032,-23.25343018730763,0 -45.97391602806326,-23.25339169395221,0 -45.97405769533873,-23.2533621376266,0 -45.97429423714889,-23.25340557231841,0 -45.97441248841659,-23.25335002039057,0 -45.97443837556843,-23.25327579130803,0 -45.97458734807828,-23.25333631919563,0 -45.97476733536445,-23.25331210434668,0 -45.9747887050361,-23.25328385929197,0 -45.97476856021881,-23.2532573550065,0 -45.97479470023029,-23.25319369207204,0 -45.97490518291813,-23.2531438444559,0 -45.97505375330131,-23.25314906734834,0 -45.97530120097619,-23.25324027870841,0 -45.97547679337089,-23.25340044303011,0 -45.97307283916058,-23.25564732691208,0 -45.97272689355168,-23.2554146917178,0 -45.9724306757201,-23.2552574827917,0 -45.9723317169019,-23.25517478705,0 -45.97236312865578,-23.25498525507761,0 -45.97196751470727,-23.25468476413388,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

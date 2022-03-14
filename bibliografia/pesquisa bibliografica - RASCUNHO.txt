@@ -1,0 +1,100 @@
+ANALISE DA OCUPAÇÃO TERRITORIAL TEMPORAL invasao - 25-03-2021
+lidas:
+	Modelo de avaliação de potencial de risco a invasão em faixas de servidão de linhas de transmissão de energia elétrica
+	UMA ANÁLISE DO DIREITO AO TERRITÓRIO TRADICIONAL PANAMBI LAGOA RICA DOS GUARANI-KAIOWÁ EM MATO GROSSO DO SUL SOB A PERSPECTIVA …
+	Uso do solo no entorno do Parque Nacional de Brasília: uma análise multitemporal
+
+	A METRÓPOLE E O PLANEJAMENTO URBANO - REVISITANDO O MITO DA CURITIBA-MODELO
+		"aprofunda-se a lógica do empreendedorismo urbano, calcada nas parcerias público-privadas e na  reconcentração  de  investimentos  em  áreas  já  privilegiadas.  Argumenta-se  que  estas questões  contribuem  para  a  manutenção  do  processo  de  segregação  socioespacial  na metrópole
+
+	Análise espaço-temporal da cobertura do solo em faixas de áreas de preservação permanente (APPs) no município de Sorocaba, SP, Brasil
+		Ideias para Resumo, 3. PROCEDIMENTOS, tabelas (página 8) 
+
+	Análise da degradação de lagoas e seu entorno pelo crescimento urbanoatravés da análise multitemporal de fotografias aéreas com técnicas degeoprocessamento: o caso das Lagoas da Tabua e da Pindoba
+		"A ocupação humana, que sempre foi desordenada, com o crescimento da cidade,principalmente  depois  da  década  de  70,  associado  a  falta  de  infra-estrutura  urbana vem agravando os problemas ambientais já bastante sérios
+
+	ANÁLISE TEMPORAL DA EXPANSÃO URBANA NOS MUNICÍPIOS DO VALE DO PARAÍBA PAULISTA
+		"O rápido crescimento populacional e a demanda por novos espaços para moradia e para o desenvolvimento de atividades vinculadas e complementares ao setor secundário nos municípios de Jacareí, São José dos Campos, Caçapava, Taubaté, Tremembé e Pindamonhangaba contribuíram para que gradativamente o espaço urbano-regional, respectivo ao Eixo Dutra, apresentasse uma configuração espacial marcada por descontinuidades e fragmentações dos respectivos tecidos urbanos.
+		" A composição destes recortes georreferenciados foi adicionada no Sistema de Informações Geográficas (SIG), no qual, foram geradas as delimitações das manchas urbanas e os cálculos de áreas nos respectivos anos.
+		"as relações entre espaço público e privado com o uso de medidas quantitativas que permitem entender aspectos importantes do sistema urbano, tais como, a acessibilidade e a distribuição de usos do solo (Saboya, 2007).
+		"Na década de 1970, no Estado de São Paulo, as Rodovias conduziram o processo de desconcentração industrial da capital, exercendo forte influência na urbanização do interior.
+		"a Região do Vale do Paraíba Paulista encontra-se dividida em cinco subregiões sendo a Sub-região 2 (Dutra A) composta pelos municípios de Jacareí, São José dos Campos, Caçapava, Taubaté, Tremembé e Pindamonhangaba definida como o recorte territorial para esta análise (Figura 1).
+		"Tabela 1 Dados demográficos municípios Dutra A nos anos de 1970, 1991 e 2010. Fonte: IBGE, 2018. 
+		"O caso do município de Jacareí que apresentou um crescimento da área urbanizada
+		"Neste momento, o planejamento urbano e regional no Vale do Paraíba Paulista demonstrava, por meio de diagnósticos das condições físicas, econômicas e demográficas - a exemplo do Plano Regional do Macro-Eixo Paulista -, uma preocupação no sentido de amenizar os impactos negativos do rápido movimento de realocação industrial e da intensificação do processo de urbanização.
+		
+		
+Descartadas:
+EFETIVIDADE DA LEGISLAÇÃO URBANÍSTICA NA REGULAÇÃO DA OCUPAÇÃO URBANA EM ZONAS RURAIS: ANÁLISE PARA O MUNICÍPIO DE ESTÂNCIA
+
+
+DE CONFLITOS NO USO DA TERRA NO MUNICÍPIO DE PINHAIS–PARANÁ–BRASIL, NUMA PERSPECTIVA ESPAÇO-TEMPORAL
+lidas:
+CONFLITOS SOCIOAMBIENTAIS URBANOS NO CONTEXTO DEPERIFERIZAÇÃO DA METRÓPOLE:UMA PERSPECTIVA A PARTIR DAS UTPs (UNIDADES TERRITORIAIS DE PLANEJAMENTO) DA RMC -REGIÃO METROPOLITANA DE CURITIBA
+	"Esses  agentes sociais  entendem  quea “preservação da natureza”encontra-se  associada ao processo  de  “privatização”  desse  espaço  para  as  classes  economicamente mais  favorecidas,  materializado  na  forma  de  condomínios  fechados  de  alto padrão.
+
+https://www.escavador.com/sobre/5393598/edmilson-alves-lopes
+	Conflitos sócio ambientais urbanos no contexto de periferização da metrópole: uma perspectiva a partir das UTPs (Unidades de Planejamento) da RMC - Região Metropolitana de Curitiba. 2011
+	Análise das modificações do uso da terra no Município de Pinhais/PR (1980/2000) numa perspectiva espaço temporal utilizando o Sistema de Informação Geográfica (SIG)
+	ZONEAMETO AMBIENTAL DA BACIA DO RIO MOINHO, MUNICÍPIO DE SÃO JOSÉ DOS PINHAIS-PR, POR MEIO DE SISTEMA DE INFORMAÇÇÕES GEOGRÁFICAS
+
+
+descartados:
+MEMORIAL DESCRITIVO - Comissão Permanente de ...www.cppd.ufpr.br › sony_cortese_caneparo
+
+
+
+metodologia do Sistema Ambiental Urbano(SAU)
+lidos:
+RISCOS E VULNERABILIDADES SOCIOAMBIENTAIS URBANOS: a contingência climática
+	"As áreas urbanas demandam, cada  vez  mais,  atenção  de  cientistas  e  gestores  urbanos,  particularmente  quando  se  trata  da  formação  de  riscos  e vulnerabilidades socioambientais
+	"muitos problemas se avizinham às preocupações humanas com a gestão urbana.
+	
+
+
+sistema ambiental urbano sig
+lidos:
+	SIG Uma plataforma  para introdução de técnicas emergentes no planejamento urbano, regional e de transportes - R$ 38,00
+		"SIG: Trata-se, antes de mais nada, de um elemento inovador pela sua habilidade intrínse-ca  de  armazenar  relações  topológicas  entre  "objetos"  geográficos  (representados,por  exemplo,  por  pontos,  linhas  ou  áreas)  e  destes  objetos  com  dados  tabulares(alfanuméricos)  contendo  as  mais  diversas  informações  (demográficas,  socioe-conômicas, etc.)
+	
+	O ensino de geoprocessamento para estudantes deturismo: um ensaio sobresuas possibilidades
+		"Esta  reflexão  apresenta  os  principais  elementos de um pontode convergência de diversas áreas, em que o ensino dessa tecnologia envolve  uma  mudança  de  comportamento  em  relação  ao  tratamento  da  informação.  A  utilização    destes    sistemas    deve servir para   o   auxílio   no   processo   de   planejamento   participativo, buscando inovação no armazenamento e tratamento das informações.
+		"O interesse por geotecnologias no Brasil nos últimos anos tem sido crescente. As mais variadas  áreas  de  atuação  vêm  usufruindo  dos  benefícios  gerados  pela  utilização dessas tecnologias que, estão cada vez mais presentes em nossas vidas, como em aparelhos celulares; rastreadores veiculares anti-furto; navegador veicular, sitesde mapas, entre outros.
+		
+	ANÁLISE ESPACIAL DA MOBILIDADE SUSTENTÁVEL EM CENTROS URBANOS	
+		"o  crescimento  do  número  de  pessoas  vivendo  nas cidades, a contínua sobrecarga nos recursos, infra-estrutura e instalações urbanas, além  dos  profundos  impactos  causados  no  meio  ambiente  têm  por  conseqüência principal,   a   deterioração   da   qualidade   de   vida   nas cidades. 
+		
+	
+	A utilização do SIGpara o planejamento urbano
+		"O  SIG  mostra  uma  visão  ampla  sobre  a  cidade  e  pode  possibilitar  o  fornecimento  de serviços  de  qualidade  para  a  população,  distribuídos  geograficamente  de  maneira  uniforme  pelo  município.
+		"O  sistema  de  informação  geográfica –SIG  é  uma  das melhores  ferramentas  para  tomadas  de decisões  sobre  planejamentos  urbano,  e  suas  aplicações  pode  ser  muito  eficaz  através  de mapas e bancos de dados que abrangem as características do local. (TEIXEIRA, 1995)
+		"A  utilização  do  SIG  junto  com  as  imagens  de  satélites,  além  de  trazer  contribuições  para  o desenvolvimento  do  Plano  Diretor,  como  ajudar  várias  secretarias  do  município  a  planejar  e disponibilizar suas ações e informações. (CAVENAGHI, LIMA, 2006).
+		
+		
+	CONFLITOS SÓCIO-AMBIENTAIS URBANOS:O LUGAR COMO CATEGORIA DE ANÁLISEDA PRODUÇÃO DE CURITIBA/JARDIM ICARAÍ	
+		"é compreendido pelo Poder Público local como "área problema", "ocupação irregular"
+	
+	
+ZONEAMETO AMBIENTAL DA BACIA DO RIO MOINHO, MUNICÍPIO DE SÃO JOSÉ DOS PINHAIS-PR, POR MEIO DE SISTEMA DE INFORMAÇÇÕES GEOGRÁFICAS
+lidos:
+	GESTÃO DO USO E OCUPAÇÃO DO SOLO: ESTUDO DE CASO DA BACIA DO RIO MIRINGUAVA, SÃO JOSÉ DOS PINHAIS, PARANÁ
+		?"o  avanço  sobre  as  áreas  de  preservação  permanente  de  rios  e  nascentes,  ocasionados  pelos  processos  de  urbanização  e  por  práticas  agrícolas  ambientalmente  incorretas,  em  franco  descumprimento  da  legislação  ambiental  vigente. 
+	
+	
+
+ANALISE DA invasao TERRITORIAL TEMPORAL
+lidos:
+	ANÁLISE DA EXPANSÃO URBANA NA BACIA DO LAGO DESCOBERTOATRAVÉS DE GEOPROCESSAMENTO
+		"demonstrou  ser viável  a utilização  de  Sistemas  de Informação  Geográfica para  estudos  dessa  natureza  e,  através  da  elaboração  e  da  superposição  de  planos  de informação, obteve-se, de maneira eficaz, informações que podem servir como norteadoras de ações de planejamento urbano e ocupação do espaço.
+	
+	descartados????
+	ANÁLISE DA NORMA ANTIELISIVA INSERIDANO CÓDIGO TRIBUTÁRIO NACIONAL À LUZ DOS PRINCÍPIOSCONSTITUCIONAIS
+	
+	
+	
+	
+norma antielisiva exemplo
+lidas:	
+Norma geral antielisiva: conceito, características, constitucionalidade, regulamentação e aplicação no Direito brasileiro
+	
+	
